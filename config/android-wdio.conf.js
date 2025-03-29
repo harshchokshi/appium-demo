@@ -58,8 +58,8 @@ exports.config = {
     //
     capabilities: [{
         "platformName": 'Android',
-        "appium:deviceName": 'Pixel 4 API 30(R)',
-        "appium:platformVersion": "11.0",
+        "appium:deviceName": 'ce091719bba9483305 ',
+        "appium:platformVersion": "9",
         "appium:automationName": "UIAutomator2",
         "appium:app": androidAppPath,
         // "appium:appWaitActivity": "com.swaglabsmobileapp.MainActivity"
